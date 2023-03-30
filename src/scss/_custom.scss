@@ -1,0 +1,24 @@
+// Here you can add other styles
+.active {
+    z-index: 0;
+  }
+
+  label {
+    font-weight: bold;
+  }
+
+  .cursor-pointer {
+    cursor: pointer;
+  }
+
+  .withoutUnderlane{
+    text-decoration: none !important;
+  }
+
+  .img-signature{
+    height: 100px;
+  }
+
+  .drop-notify {
+    max-height: 250px;
+  }

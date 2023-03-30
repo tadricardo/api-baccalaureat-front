@@ -1,0 +1,83 @@
+
+body{
+    box-sizing: border-box;
+    margin: auto;
+  }
+  
+   label {
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: right;
+    vertical-align: middle;
+    font-weight:  bold;
+  }
+  
+  fieldset{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: #eeeeee;
+    box-shadow: 3px 3px black, -1em 0 .4em rgb(143, 139, 139);
+  }
+  legend{
+    font: 1em sans-serif;
+    font-size:24px;
+    font-style:  italic;
+    font-weight: bold;
+  }
+  
+  .contrat{
+    margin-top :5%;
+    width: 50%;
+    height: 20px;
+    text-align: left;
+  }
+  .btn_radio{
+    float: right;
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .typeContrator{
+    width:50% ;
+  }
+  
+  .input_field{
+    width: 50%;
+    height: 30px;
+    float: right
+  }
+  .btn_reset{
+    float:  right;
+    background-color: red;
+    color: white;
+    padding:5px;
+    margin-top: 5%;
+    
+  }
+  
+  .box{
+    margin-top:7%;
+    text-align: left;
+     flex-wrap: wrap;
+    
+    
+  }
+  
+  
+  #sb{
+  margin-bottom: 5px;  
+  }
+  
+  .brut{
+    margin-top:-5%;
+  }
+  
+  span{
+    display:flex;
+    flex-wrap: wrap;
+  }
+  
+  
